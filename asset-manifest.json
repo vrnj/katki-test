@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/katki-test/static/css/main.4f9bb697.css",
+    "main.js": "/katki-test/static/js/main.358dbc8a.js",
+    "static/js/787.66cb4309.chunk.js": "/katki-test/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/katki-test/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/katki-test/index.html",
+    "main.4f9bb697.css.map": "/katki-test/static/css/main.4f9bb697.css.map",
+    "main.358dbc8a.js.map": "/katki-test/static/js/main.358dbc8a.js.map",
+    "787.66cb4309.chunk.js.map": "/katki-test/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f9bb697.css",
+    "static/js/main.358dbc8a.js"
+  ]
+}
